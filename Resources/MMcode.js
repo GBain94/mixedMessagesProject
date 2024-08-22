@@ -1,5 +1,5 @@
 
-let youAre = ["You are Cancer", "You are Taurus", "You are Sagittarius", "You are Virgo"];
+let youAre = ["You are Cancer", "You are Taurus", "You are Sagittarius", "You are Virgo", "You are Aries", "You are Gemini", "You are Leo", "You are Libra", "You are Scorpio"];
 let whichMeans = ["You are sensitive", "You are stubborn", "You are adventurous", "You are analytical"];
 let conditional = ["unless other indicators contradict this", "which is amplified by your other placements"];
  
